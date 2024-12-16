@@ -337,7 +337,7 @@
         </mxCell>
         <mxCell id="x_6DV-u8LU6741YaV7bA-148" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;некачественные данные&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="60" y="194" width="130" height="30" as="geometry">
-            <mxRectangle x="60" y="204" width="180" height="90" as="alternateBounds" />
+            <mxRectangle x="60" y="194" width="180" height="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x_6DV-u8LU6741YaV7bA-149" value="Могут повлиять на продажи" style="text;strokeColor=none;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;" vertex="1" parent="x_6DV-u8LU6741YaV7bA-148">
