@@ -1,6 +1,6 @@
 #!/bin/bash
 
-create_users(){
+create_user(){
     local USERNAME=$1
     local GROUP_NAME=$2
 
@@ -15,10 +15,10 @@ create_users(){
 }
 
 # Init users
-create_users alex secrets-manager
-create_users josh secrets-viewer
-create_users eva cluster-resources-viewer
-create_users samantha cluster-resources-manager
+create_user alex secrets-manager
+create_user josh secrets-viewer
+create_user eva cluster-resources-viewer
+create_user samantha cluster-resources-manager
 
 # Init roles and bindings
 minikube kubectl -- apply -f ./roles.yaml
